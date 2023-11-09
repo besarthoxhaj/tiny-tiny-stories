@@ -1,0 +1,5 @@
+__pycache__
+tiny_stories_all.txt
+tiny_piece.model
+tiny_piece.vocab
+*.pt
